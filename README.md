@@ -80,3 +80,9 @@ You should have received a copy of the GNU General Public License along with *JA
 15. *Dungeon Keeper Manual*. Bullfrog, Guildford, UK, 1997, §29.5 Barbarian.
 16. *Dungeon Keeper Manual*. Bullfrog, Guildford, UK, 1997, §29.4 Dwarf.
 17. *Dungeon Keeper Manual*. Bullfrog, Guildford, UK, 1997, §29.2 Thief.
+ 
+## Credits
+* Created using:
+  * ENSLAVE Creature Editor by Brandon Sim;
+  * [DOSBox](https://www.dosbox.com/) by the DOSBox team;
+  * [Kate](https://kate-editor.org/) by [KDE e.V.](https://kde.org/).
