@@ -1,0 +1,3 @@
+To INSTALL JAM: Dungeon Keeper, copy the DATA folder from the jam_dungeon_keeper-1.0.zip archive to your Dungeon Keeper installation directory. This will replace your existing CREATURES.TXT file, but will also add a backup file of the original CREATURES.TXT file as CREATURES.TXT.BAK.
+
+To UNINSTALL, delete the CREATURES.TXT file from the DATA folder, which is located inside your Dungeon Keeper installation directory. Then, rename CREATURES.TXT.BAK to CREATURES.TXT.
